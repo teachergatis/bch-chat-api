@@ -1,0 +1,6 @@
+{
+  "name": "bch-chat-api",
+  "version": "1.0.0",
+  "description": "BCH Live Chat serverless API for Vercel",
+  "private": true
+}
